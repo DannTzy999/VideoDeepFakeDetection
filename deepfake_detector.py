@@ -83,4 +83,3 @@ def run(video_path , video_path2):
         accuracy = 95  # Cap accuracy if it exceeds 100
 
     return int(accuracy)
-
